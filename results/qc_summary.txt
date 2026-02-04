@@ -1,0 +1,38 @@
+Sequence ID: tr|B2RXJ9|B2RXJ9_HUMAN
+Sequence Description: tr|B2RXJ9|B2RXJ9_HUMAN LOC728138 protein OS=Homo sapiens OX=9606 GN=LOC728138 PE=2 SV=1
+Sequence length: 633
+Amino acid composition:
+M: 10
+W: 12
+L: 107
+Q: 32
+G: 53
+K: 24
+P: 49
+S: 40
+A: 58
+R: 31
+C: 11
+F: 19
+H: 23
+E: 32
+T: 30
+V: 42
+N: 14
+D: 21
+Y: 12
+I: 13
+
+SEQUENCE FILTERING AND VALIDATION
+
+1. Sequence length:
+          Protein with <100 aa is unreliable and >1000 aa is too complex.
+          my protein length (633 aa) is within biologically acceptable range.
+      
+2. Amino Acid composition:
+          The amino acid composition showed presence of standard aminoacids indicates valid protein sequence.
+
+3. No excessive low complexity or ambiguous residues are observed.
+
+So finally based on sequence length, amino acid composition, and absence of low-complexity regions
+the selected protein sequence was considered suitable for downstream homology-based functional analysis.

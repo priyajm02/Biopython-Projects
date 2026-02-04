@@ -1,0 +1,40 @@
+
+FUNCTIONAL ANNOTATION REPORT
+
+UniProt ID: B2RXJ9
+Protein name: LOC728138 protein
+Organism: Homo sapiens
+Protein length: 633 amino acids
+
+1. Homology based Annotation (BLAST)
+
+ BLASTP analysis against the NCBI non-redundant database revealed that the query protein shows significant similarity
+ to uncharacterized proteins such as LOC728138 protein which is partial [synthetic construct] from Homo sapiens and KIAA2013-like protein 
+ from Pan troglodytes.The alignments exhibited very high sequence similarity with an E-value of 0.0, indicating a statistically significant match.
+ However, all the retrieved homologs were annotated as uncharacterized proteins, suggesting that the protein belongs to a conserved protein
+ family with unknown biological function.
+
+2. Domain based Annotation (CDD / Pfam)
+
+ Conserved domain analysis using the NCBI Conserved Domain Database (CDD) identified the presence of the DUF2152 domain (Pfam: pfam10222)
+ across most of the protein sequence. DUF2152 belongs to a family of conserved proteins found from worms to humans, but its biological 
+ function has not yet been experimentally characterized. The presence of this domain indicates that the protein may be involved in a
+ conserved cellular process.
+
+3. Subcellular Localization (UniProt / GO)
+
+ Subcellular localization analysis based on UniProt GO annotation predicted that the protein is associated with the membrane.
+ A transmembrane helix was identified between amino acid positions 591–613, suggesting that the protein may function as a 
+ membrane-associated or transmembrane protein.
+
+4. Functional Prediction (Integrated)
+
+ Based on homology analysis, conserved domain identification, and subcellular localization, the protein is predicted to be a 
+ conserved membrane-associated protein containing the DUF2152 domain. Although the exact biological function of this protein 
+ remains unknown, it may play a role in fundamental cellular processes conserved across species. Further experimental studies 
+ are required to elucidate its precise function.
+
+
+
+
+ 
