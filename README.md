@@ -1,7 +1,7 @@
 # Biopython-Project
 This Study tries to predict the function of a protein whose function is not known yet, by analyzing its sequence and comparing it with similar known proteins.
 
-# In silico Functional characterization of the uncharacterized protein LOC728138 using Sequence and Homology-based Analysis.
+# In-Silico Functional characterization of the uncharacterized protein LOC728138 using Sequence and Homology-based Analysis.
 
 ## Project Description
 This project aims to perform functional annotation of an uncharacterized protein from Homo sapiens using bioinformatics tools. The protein sequence was analyzed using homology-based methods, conserved domain analysis, and Gene Ontology annotation to predict its possible function.
