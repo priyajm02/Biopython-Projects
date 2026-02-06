@@ -51,7 +51,7 @@ The selected protein is LOC728138 (UniProt ID: B2RXJ9), which is an uncharacteri
 ---
 
 ##  Results Summary
-- BLAST analysis showed strong similarity to uncharacterized proteins such as LOC728138 and KIAA2013-like proteins with E-value = 0.0.
+- BLAST analysis showed strong similarity to uncharacterized proteins such as LOC728138 protein which is partial [synthetic construct ] from Homo sapiens and KIAA2013-like proteins with E-value = 0.0.
 - Conserved domain analysis identified the DUF2152 domain (Pfam: pfam10222).
 - GO annotation predicted membrane association with a transmembrane helix between residues 591–613.
 
