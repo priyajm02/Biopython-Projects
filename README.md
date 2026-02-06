@@ -1,5 +1,5 @@
 # Biopython-Project
-This Study tries to predict the function of a protein whose function is not known yet, by analyzing its sequence and comparing it with similar known proteins.
+This Study tries to predict the function of a protein whose function is not known yet, by analyzing its sequence and comparing it with similar known proteins using Biopython approach.
 
 # In-Silico Functional characterization of the uncharacterized protein (LOC728138) using Sequence and Homology-based Analysis.
 
@@ -30,10 +30,10 @@ The selected protein is LOC728138 (UniProt ID: B2RXJ9), which is an uncharacteri
 ---
 
 ## Output Files
-- blast_result.txt : Contains BLAST homology search results.
+- blast_result.txt : Contains the top three homologous hits obtained from BLAST analysis.
 - functional_annotation.txt : Contains predicted functional annotation of the protein.
 - homology_analysis.py : Python script used to perform BLAST.
-- blast_result.xml : Contains raw BLAST outputin XML format.
+- blast_result.xml : Contains raw BLAST output in XML format.
 - README.md : Project documentation.
 
 ---
