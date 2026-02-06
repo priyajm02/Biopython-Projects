@@ -1,8 +1,7 @@
 # Biopython-Project
-This project focuses on the functional annotation of an uncharacterized protein from Homo sapiens using Biopython approach.
+This Study tries to predict the function of a protein whose function is not known yet, by analyzing its sequence and comparing it with similar known proteins.
 
-
-# IN-SILICO IDENTIFICATION AND FUNCTIONAL CHARACTERIZATION OF THE UNCHARACTERIZED PROTEIN LOC728138 USING SEQUENCE ANALYSIS AND HOMOLOGY-BASED ANNOTATION.
+# In silico Functional characterization of the uncharacterized protein LOC728138 using Sequence and Homology-based Analysis.
 
 ## Project Description
 This project aims to perform functional annotation of an uncharacterized protein from Homo sapiens using bioinformatics tools. The protein sequence was analyzed using homology-based methods, conserved domain analysis, and Gene Ontology annotation to predict its possible function.
